@@ -1,0 +1,11 @@
+.rating {
+    list-style: none;
+    background-color: white;
+    border: 1px solid gray;
+    header {
+        display: flex;
+        justify-content: space-between;
+        margin: 0;
+        border: none;
+    }
+}
